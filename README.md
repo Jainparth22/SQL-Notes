@@ -20,6 +20,9 @@ All examples use **PostgreSQL**. Dialect differences from MySQL (LeetCode's defa
 
 | Lesson | Topics |
 | --- | --- |
+| [Lesson 1 — SQL fundamentals](Lesson%201%20%E2%80%94%20SQL%20fundamentals.md) | SELECT, WHERE, ORDER BY, LIMIT, NULL, CASE, logical execution order |
+| [Lesson 2 — Aggregate Functions, GROUP BY and HAVING](Lesson%202%20%E2%80%94%20Aggregate%20Functions%2C%20GROUP%20BY%20and%20HAVING.md) | COUNT/SUM/AVG, GROUP BY, HAVING, conditional aggregation, duplicate detection |
+| [Lesson 3 — SQL JOINs](Lesson%203%20%E2%80%94%20SQL%20JOINs.md) | INNER/LEFT/RIGHT/FULL/CROSS/SELF joins, ON vs WHERE, join multiplication |
 
 ## Learning path
 
