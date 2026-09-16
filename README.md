@@ -23,6 +23,10 @@ All examples use **PostgreSQL**. Dialect differences from MySQL (LeetCode's defa
 | [Lesson 1 — SQL fundamentals](Lesson%201%20%E2%80%94%20SQL%20fundamentals.md) | SELECT, WHERE, ORDER BY, LIMIT, NULL, CASE, logical execution order |
 | [Lesson 2 — Aggregate Functions, GROUP BY and HAVING](Lesson%202%20%E2%80%94%20Aggregate%20Functions%2C%20GROUP%20BY%20and%20HAVING.md) | COUNT/SUM/AVG, GROUP BY, HAVING, conditional aggregation, duplicate detection |
 | [Lesson 3 — SQL JOINs](Lesson%203%20%E2%80%94%20SQL%20JOINs.md) | INNER/LEFT/RIGHT/FULL/CROSS/SELF joins, ON vs WHERE, join multiplication |
+| [Lesson 4 — SQL Subqueries and Nested Queries](Lesson%204%20%E2%80%94%20SQL%20Subqueries%20and%20Nested%20Queries.md) | Scalar and correlated subqueries, IN/EXISTS/ANY/ALL, Nth-highest salary |
+| [Lesson 5 — SQL CTEs (Common Table Expressions)](Lesson%205%20%E2%80%94%20SQL%20CTEs%20%28Common%20Table%20Expressions%29.md) | WITH clause, multiple CTEs, recursive CTEs and hierarchies |
+| [Lesson 6 — SQL Window Functions](Lesson%206%20%E2%80%94%20SQL%20Window%20Functions.md) | ROW_NUMBER/RANK/DENSE_RANK, LAG/LEAD, running totals, frames, gaps basics |
+| [Lesson 7 — Advanced SQL Functions Strings, Dates, NULL Handling and Conditional Logic](Lesson%207%20%E2%80%94%20Advanced%20SQL%20Functions%20Strings%2C%20Dates%2C%20NULL%20Handling%20and%20Conditional%20Logic.md) | String, date and NULL functions, conditional aggregation, type casting |
 
 ## Learning path
 
