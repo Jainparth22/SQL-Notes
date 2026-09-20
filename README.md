@@ -30,6 +30,7 @@ All examples use **PostgreSQL**. Dialect differences from MySQL (LeetCode's defa
 | [Lesson 8 — Database Design and Normalisation](Lesson%208%20%E2%80%94%20Database%20Design%20and%20Normalisation.md) | Keys, functional dependencies, 1NF to BCNF, relationships, schema design |
 | [Lesson 9 — Complete Advanced DBMS-Indexing, Query Optimisation, Transactions and Backend Engineering-Part-2](Lesson%209%20%E2%80%94%20Complete%20Advanced%20DBMS-Indexing%2C%20Query%20Optimisation%2C%20Transactions%20and%20Backend%20Engineering-Part-2.md) | Deep dive: B-Tree, join algorithms, WAL, write skew, idempotency, outbox, SKIP LOCKED, Saga |
 | [Lesson 9 — SQL Indexes, Transactions and Query Optimisation](Lesson%209%20%E2%80%94%20SQL%20Indexes%2C%20Transactions%20and%20Query%20Optimisation.md) | Indexes, EXPLAIN, ACID, isolation levels, MVCC, locking, deadlocks |
+| [Lesson 10 — SQL Company OAs, LeetCode Practice and Mock Interviews](Lesson%2010%20%E2%80%94%20SQL%20Company%20OAs%2C%20LeetCode%20Practice%20and%20Mock%20Interviews.md) | OA patterns (top N, gaps and islands, retention), LeetCode map, interview prep, 3 mock OAs with answer keys |
 
 ## Learning path
 
