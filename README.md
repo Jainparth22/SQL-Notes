@@ -31,6 +31,10 @@ All examples use **PostgreSQL**. Dialect differences from MySQL (LeetCode's defa
 | [Lesson 9 — Complete Advanced DBMS-Indexing, Query Optimisation, Transactions and Backend Engineering-Part-2](Lesson%209%20%E2%80%94%20Complete%20Advanced%20DBMS-Indexing%2C%20Query%20Optimisation%2C%20Transactions%20and%20Backend%20Engineering-Part-2.md) | Deep dive: B-Tree, join algorithms, WAL, write skew, idempotency, outbox, SKIP LOCKED, Saga |
 | [Lesson 9 — SQL Indexes, Transactions and Query Optimisation](Lesson%209%20%E2%80%94%20SQL%20Indexes%2C%20Transactions%20and%20Query%20Optimisation.md) | Indexes, EXPLAIN, ACID, isolation levels, MVCC, locking, deadlocks |
 | [Lesson 10 — SQL Company OAs, LeetCode Practice and Mock Interviews](Lesson%2010%20%E2%80%94%20SQL%20Company%20OAs%2C%20LeetCode%20Practice%20and%20Mock%20Interviews.md) | OA patterns (top N, gaps and islands, retention), LeetCode map, interview prep, 3 mock OAs with answer keys |
+| [Lesson 11.1 — Advanced Drills Sets 1-2 and Alternative Solutions](Lesson%2011.1%20%E2%80%94%20Advanced%20Drills%20Sets%201-2%20and%20Alternative%20Solutions.md) | Practice drills sets 1-2 and solving one problem several ways |
+| [Lesson 11.2 — Advanced Drills Sets 3-4 Query Rewriting](Lesson%2011.2%20%E2%80%94%20Advanced%20Drills%20Sets%203-4%20Query%20Rewriting.md) | Drill set 3 solutions and set 4 (query rewriting) |
+| [Lesson 11.3 — Advanced Drills Sets 5-6](Lesson%2011.3%20%E2%80%94%20Advanced%20Drills%20Sets%205-6.md) | Drill sets 5-6 |
+| [Lesson 11.4 — Final Placement Preparation Set 7](Lesson%2011.4%20%E2%80%94%20Final%20Placement%20Preparation%20Set%207.md) | Final placement preparation, set 7 |
 
 ## Learning path
 
