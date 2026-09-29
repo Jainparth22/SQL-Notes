@@ -35,6 +35,11 @@ All examples use **PostgreSQL**. Dialect differences from MySQL (LeetCode's defa
 | [Lesson 11.2 — Advanced Drills Sets 3-4 Query Rewriting](Lesson%2011.2%20%E2%80%94%20Advanced%20Drills%20Sets%203-4%20Query%20Rewriting.md) | Drill set 3 solutions and set 4 (query rewriting) |
 | [Lesson 11.3 — Advanced Drills Sets 5-6](Lesson%2011.3%20%E2%80%94%20Advanced%20Drills%20Sets%205-6.md) | Drill sets 5-6 |
 | [Lesson 11.4 — Final Placement Preparation Set 7](Lesson%2011.4%20%E2%80%94%20Final%20Placement%20Preparation%20Set%207.md) | Final placement preparation, set 7 |
+| [Lesson 11.5 — Interview Mastery Part 1 SQL Core Concepts](Lesson%2011.5%20%E2%80%94%20Interview%20Mastery%20Part%201%20SQL%20Core%20Concepts.md) | Interview Mastery 1: execution order, WHERE vs HAVING, NULL, join semantics, UNION |
+| [Lesson 11.6 — Interview Mastery Part 2 Execution Plans and Indexes](Lesson%2011.6%20%E2%80%94%20Interview%20Mastery%20Part%202%20Execution%20Plans%20and%20Indexes.md) | Interview Mastery 2: execution plans, scan types, composite and covering indexes, pagination |
+| [Lesson 11.7 — Interview Mastery Part 3 Backend SQL Features](Lesson%2011.7%20%E2%80%94%20Interview%20Mastery%20Part%203%20Backend%20SQL%20Features.md) | Interview Mastery 3: UPSERT, JSONB, views, procedures, triggers, partitioning, pooling, SQL injection |
+| [Lesson 11.8 — Interview Mastery Part 4A Questions 1-50](Lesson%2011.8%20%E2%80%94%20Interview%20Mastery%20Part%204A%20Questions%201-50.md) | Interview Mastery 4A: DBMS and SQL interview questions 1-50 |
+| [Lesson 11.9 — Interview Mastery Part 4B Questions 51-100](Lesson%2011.9%20%E2%80%94%20Interview%20Mastery%20Part%204B%20Questions%2051-100.md) | Interview Mastery 4B: questions 51-100 incl. transactions, locks, WAL, backend scenarios |
 
 ## Learning path
 
